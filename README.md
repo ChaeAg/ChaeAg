@@ -9,9 +9,10 @@
   <br>
   <br>
   
-  <div>
-    <a href="https://solved.ac/dkglel">
-      <img align="left" src="http://mazassumnida.wtf/api/generate_badge?boj=dkglel" alt="Solved.ac Profile"/></a>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=ChaeAg&show_icons=true&theme=swift" alt="GitHub Stats"/>
-  </div>
+<div align="left">
+  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkglel)](https://solved.ac/dkglel) <img align="right" src="https://github-readme-stats.vercel.app/api?username=ChaeAg&show_icons=true&theme=swift" alt="GitHub Stats"/>
+
+</div>
+
 </div>
