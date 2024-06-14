@@ -1,16 +1,19 @@
-<div align=center>
+<div align="center">
   
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=ChaeAg&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20chaeeun&descAlign=60&descAlignY=44)
-
-<br>
+### ChaeAg
 <br>
 
+<a></a>
+---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dkglel)](https://solved.ac/dkglel)<br/>
-
-<br>
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ChaeAg&show_icons=true&theme=swift">
-
+  <br>
+  <br>
+  
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://solved.ac/dkglel">
+      <img align="left" src="http://mazassumnida.wtf/api/generate_badge?boj=dkglel" alt="Solved.ac Profile"/>
+    </a>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=ChaeAg&show_icons=true&theme=swift" alt="GitHub Stats" />
+  </div>
 </div>
+  
