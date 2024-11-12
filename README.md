@@ -3,6 +3,15 @@
 ### ChaeAg
 <br>
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/ChaeAg?pet-id=644073421421938312"
+    width="600"
+    height="150"
+  />
+</a>
+
 <a></a>
 ---
 
